@@ -1,20 +1,8 @@
 {
-  "private": true,
-  "name": "youtube-dl-proxy",
-  "version": "1.0.0",
-  "description": "",
-  "directories": {
-    "doc": "docs"
-  },
   "dependencies": {
-    "express": "4.13.4",
     "youtube-dl": "github:movielala/node-youtube-dl"
   },
   "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git@gitlab.movielala.org:movielala/youtube-dl-proxy.git"
-  },
   "author": "Alican Çubukçuoğlu <alicancubukcuoglu@gmail.com> (https://github.com/AlicanC)",
   "license": "UNLICENSED"
 }
