@@ -40,3 +40,8 @@ Deploy your functions and endpoints:
 ```
 serverless dash deploy
 ```
+
+## Examples
+
+* https://your-api-gateway.com/your-stage/video?url=https://www.youtube.com/watch?v=UiyDmqO59QE
+* https://your-api-gateway.com/your-stage/video?url=https://www.youtube.com/watch?v=UiyDmqO59QE&raw=1
