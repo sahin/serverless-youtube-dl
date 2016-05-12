@@ -1,0 +1,8 @@
+{
+  "apiRequestTemplate": {
+    "application/json": {
+      "url": "$input.params('url')",
+      "raw": "$input.params('raw')"
+    }
+  }
+}
