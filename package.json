@@ -9,5 +9,7 @@
     "type": "git",
     "url": "git://github.com/"
   },
-  "dependencies": {}
+  "dependencies": {
+    "serverless-cors-plugin": "^0.4.1"
+  }
 }
