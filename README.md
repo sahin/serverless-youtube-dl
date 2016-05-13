@@ -11,6 +11,27 @@ Make sure you have the [Serverless Framework](http://www.serverless.com) install
 npm install serverless -g
 ```
 
+Install the project using Serverless:
+```
+serverless project install serverless-starter
+```
+
+Install project dependencies via npm:
+```
+npm install
+cd video
+npm install
+```
+
+Deploy your functions and endpoints:
+```
+serverless dash deploy
+```
+
+##Alternative Install
+
+If issues arise during installation, the steps below can be taken to install the project and initialize it.
+
 Open a command line terminal and `cd` to the location where you will be placing the serverless-youtube-dl project.
 
 Clone the project directly from Github:
