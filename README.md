@@ -13,7 +13,7 @@ npm install serverless -g
 
 Install the project using Serverless:
 ```
-serverless project install serverless-starter
+serverless project install serverless-youtube-dl
 ```
 
 Install project dependencies via npm:
