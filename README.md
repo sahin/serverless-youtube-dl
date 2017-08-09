@@ -72,4 +72,4 @@ serverless dash deploy
 * Sahin https://github.com/sahin
 
 ## Developed by
-* Muhammet Dilek https://github.com/muhammet
+* Muhammet https://github.com/muhammet
