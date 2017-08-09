@@ -66,3 +66,10 @@ serverless dash deploy
 
 * https://your-api-gateway.com/your-stage/video?url=https://www.youtube.com/watch?v=UiyDmqO59QE
 * https://your-api-gateway.com/your-stage/video?url=https://www.youtube.com/watch?v=UiyDmqO59QE&raw=1
+
+
+## Idea by
+* Sahin https://github.com/sahin
+
+## Developed by
+* Muhammet Dilek https://github.com/muhammet
