@@ -28,7 +28,7 @@ Deploy your functions and endpoints:
 serverless dash deploy
 ```
 
-##Alternative Install
+## Alternative Install
 
 If issues arise during installation, the steps below can be taken to install the project and initialize it.
 
