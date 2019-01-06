@@ -1,0 +1,12 @@
+service: serverless-youtube-dl
+provider:
+  name: aws
+  region: us-west-2
+  runtime: nodejs8.10
+functions:
+  parser:
+    handler: parser.handler
+    events:
+      - http:
+          path: video
+          method: get

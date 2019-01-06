@@ -1,7 +1,0 @@
-{
-  "name": "serverless-youtube-dl",
-  "custom": {},
-  "plugins": [
-    "serverless-cors-plugin"
-  ]
-}

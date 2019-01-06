@@ -1,8 +1,0 @@
-{
-  "dependencies": {
-    "youtube-dl": "github:movielala/node-youtube-dl"
-  },
-  "devDependencies": {},
-  "author": "Alican Çubukçuoğlu <alicancubukcuoglu@gmail.com> (https://github.com/AlicanC)",
-  "license": "UNLICENSED"
-}

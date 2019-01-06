@@ -1,8 +1,7 @@
 {
   "name": "serverless-youtube-dl",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A Serverless Project and its Serverless Plugin dependencies.",
-  "author": "me",
   "license": "MIT",
   "private": false,
   "repository": {
@@ -10,6 +9,13 @@
     "url": "git://github.com/"
   },
   "dependencies": {
-    "serverless-cors-plugin": "^0.4.1"
+    "youtube-dl": "github:przemyslawpluta/node-youtube-dl"
+  },
+  "main": "parser.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   }
 }
